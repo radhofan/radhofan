@@ -26,7 +26,7 @@
 - Supabase vs Firebase debate 🔥
 
 ### 📫 How to reach me
-- LinkedIn: [Radho Ramdhani]([https://linkedin.com/in/radhoramdhani](https://www.linkedin.com/in/radhofan-azizi/))
+- LinkedIn: [https://linkedin.com/in/radhoramdhani](https://www.linkedin.com/in/radhofan-azizi/)
 - Email: radhofanazizi@gmail.com
 
 ### ⚡ Fun fact
