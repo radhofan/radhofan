@@ -26,9 +26,8 @@
 - Supabase vs Firebase debate 🔥
 
 ### 📫 How to reach me
-- Twitter: [@radhofan](https://twitter.com/radhofan)
-- LinkedIn: [Radho Ramdhani](https://linkedin.com/in/radhoramdhani)
-- Email: radho@example.com
+- LinkedIn: [Radho Ramdhani]([https://linkedin.com/in/radhoramdhani](https://www.linkedin.com/in/radhofan-azizi/))
+- Email: radhofanazizi@gmail.com
 
 ### ⚡ Fun fact
 - I once built a tiny game engine using **Rust** and **WebGL** just for fun!
