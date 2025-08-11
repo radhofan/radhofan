@@ -4,33 +4,9 @@
 **radhofan/radhofan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### 🔭 I’m currently working on
-- Building performant web apps with **React**, **Next.js**, and **TypeScript**
-- Exploring backend APIs with **NestJS** and **Supabase**
-
-### 🌱 I’m currently learning
-- Rust & WebAssembly for blazing-fast frontend features 🚀
-- Advanced GraphQL & tRPC for fully typesafe APIs
-
-### 👯 I’m looking to collaborate on
-- Open source frontend tooling and UI component libraries
-- Real-time apps using WebSockets & edge functions
-
-### 🤔 I’m looking for help with
-- Optimizing large-scale React apps for performance
-- Best practices for monorepos and atomic design
-
-### 💬 Ask me about
-- Modern frontend architecture
-- TypeScript tips and tricks
-- Supabase vs Firebase debate 🔥
-
 ### 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radhofan-azizi/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radhofanazizi@gmail.com)
-
-### ⚡ Fun fact
-- I once built a tiny game engine using **Rust** and **WebGL** just for fun!
 
 ---
 
