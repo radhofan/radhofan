@@ -26,8 +26,8 @@
 - Supabase vs Firebase debate 🔥
 
 ### 📫 How to reach me
-- LinkedIn: [https://linkedin.com/in/radhoramdhani](https://www.linkedin.com/in/radhofan-azizi/)
-- Email: radhofanazizi@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radhofan-azizi/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radhofanazizi@gmail.com)
 
 ### ⚡ Fun fact
 - I once built a tiny game engine using **Rust** and **WebGL** just for fun!
