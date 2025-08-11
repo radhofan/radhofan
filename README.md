@@ -36,16 +36,11 @@
 ---
 
 ### 🛠️ My Tech Stack
-
 <p align="left">
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img alt="NestJS" src="https://nestjs.com/img/logo-small.svg" width="40" height="40"/>
-  <img alt="Supabase" src="https://supabase.com/favicon.ico" width="40" height="40"/>
-  <img alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40"/>
-  <img alt="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
   <img alt="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40" height="40"/>
+  <img alt="NestJS" src="https://nestjs.com/img/logo-small.svg" width="40" height="40"/>
+  <img alt="Rust" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40"/>
 </p>
 
 ---
