@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:174EA6,100:00D9FF&height=200&section=header&text=fun_radho%20%E2%9C%A8&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=%F0%9F%92%BB%20Fullstack%20Software%20Engineer%20%7C%20%F0%9F%8E%AE%20Currently%20Playing%20Hogwarts%20Legacy%20%7C%20%F0%9F%A4%96%20Learning:%20Go,%20LangChain%20and%20LlamaIndex&descSize=14&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:174EA6,100:00D9FF&height=200&section=header&text=fun_radho%20%E2%9C%A8&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=%F0%9F%92%BB%20Fullstack%20Software%20Engineer%20%7C%20%F0%9F%8E%AE%20Currently%20Playing:%20Hogwarts%20Legacy%20%7C%20%F0%9F%A4%96%20Learning:%20Go,%20LangChain%20and%20LlamaIndex&descSize=14&descAlignY=55" width="100%"/>
 <div>  
 <img width="320" src="./img/furina-2.png" align=right />
 <br/>
@@ -97,7 +97,7 @@
 <img src="./img/furina.png" height="280" width="270" align="right" />
 
 <img src="./img/furina-3.png" width="500" /><br/>
-<sub>“The strength gained through my own hard work is truly fulfilling. Hehe, thanks for your support.” – Furina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : radhofanazizi@gmail.com</sub>
+<sub>“The strength gained through my own hard work is truly fulfilling. Hehe, thanks for your support.” – Furina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : radhofanazizi@gmail.com</sub>
 <br/><br/>
 
 <p align='center'>
