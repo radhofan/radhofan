@@ -26,40 +26,40 @@
 <h3>My Tech Stack:</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/React-Advanced-555555?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-Advanced-555555?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/JavaScript-Advanced-555555?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-Advanced-555555?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-Advanced-555555?style=flat&logo=react&logoColor=black&labelColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-Advanced-555555?style=flat&logo=nextdotjs&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/JavaScript-Advanced-555555?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-Advanced-555555?style=flat&logo=typescript&logoColor=white&labelColor=3178C6" />
 </p>
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-Advanced-555555?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933" />
-  <img src="https://img.shields.io/badge/Express-Advanced-555555?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/PHP-Intermediate-555555?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4" />
-  <img src="https://img.shields.io/badge/Laravel-Intermediate-555555?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20" />
-  <img src="https://img.shields.io/badge/Java-Intermediate-555555?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00" />
-  <img src="https://img.shields.io/badge/Go-Intermediate-555555?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8" />
-  <img src="https://img.shields.io/badge/Python-Intermediate-555555?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" />
+  <img src="https://img.shields.io/badge/Node.js-Advanced-555555?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933" />
+  <img src="https://img.shields.io/badge/Express-Advanced-555555?style=flat&logo=express&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PHP-Intermediate-555555?style=flat&logo=php&logoColor=white&labelColor=777BB4" />
+  <img src="https://img.shields.io/badge/Laravel-Intermediate-555555?style=flat&logo=laravel&logoColor=white&labelColor=FF2D20" />
+  <img src="https://img.shields.io/badge/Java-Intermediate-555555?style=flat&logo=openjdk&logoColor=white&labelColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Go-Intermediate-555555?style=flat&logo=go&logoColor=white&labelColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Python-Intermediate-555555?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
 </p>
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-Advanced-555555?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1" />
-  <img src="https://img.shields.io/badge/MongoDB-Advanced-555555?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" />
-  <img src="https://img.shields.io/badge/MySQL-Advanced-555555?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" />
-  <img src="https://img.shields.io/badge/Redis-Intermediate-555555?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Advanced-555555?style=flat&logo=postgresql&logoColor=white&labelColor=4169E1" />
+  <img src="https://img.shields.io/badge/MongoDB-Advanced-555555?style=flat&logo=mongodb&logoColor=white&labelColor=47A248" />
+  <img src="https://img.shields.io/badge/MySQL-Advanced-555555?style=flat&logo=mysql&logoColor=white&labelColor=4479A1" />
+  <img src="https://img.shields.io/badge/Redis-Intermediate-555555?style=flat&logo=redis&logoColor=white&labelColor=DC382D" />
 </p>
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-Intermediate-555555?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED" />
-  <img src="https://img.shields.io/badge/Git-Advanced-555555?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-Advanced-555555?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
-  <img src="https://img.shields.io/badge/Linux-Learning-555555?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624" />
+  <img src="https://img.shields.io/badge/Docker-Intermediate-555555?style=flat&logo=docker&logoColor=white&labelColor=2496ED" />
+  <img src="https://img.shields.io/badge/Git-Advanced-555555?style=flat&logo=git&logoColor=white&labelColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-Advanced-555555?style=flat&logo=github&logoColor=white&labelColor=181717" />
+  <img src="https://img.shields.io/badge/Linux-Learning-555555?style=flat&logo=linux&logoColor=black&labelColor=FCC624" />
 </p>
 
 </div>
