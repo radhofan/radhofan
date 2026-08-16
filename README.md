@@ -97,7 +97,7 @@
 <img src="./img/furina.png" height="280" width="270" align="right" />
 
 <img src="./img/furina-3.png" width="500" /><br/>
-<sub>“The strength gained through my own hard work is truly fulfilling. Hehe, thanks for your support.” – Furina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : radhofanazizi@gmail.com</sub>
+<sub>“The strength gained through my own hard work is truly fulfilling. Hehe, thanks for your support.” – Furina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : radhofanazizi@gmail.com</sub>
 <br/><br/>
 
 <p align='center'>
