@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2420,50:8B6144,100:C4A580&height=200&section=header&text=1337ophellia%20%E2%9C%A8&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20and%20GNU/Linux%20Enthusiast&descSize=16&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:174EA6,100:00D9FF&height=200&section=header&text=fun_radho%20%E2%9C%A8&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=32&desc=%F0%9F%92%BB%20Fullstack%20Software%20Engineer%20%7C%20%F0%9F%8E%AE%20Currently%20Playing%20Hogwarts%20Legacy%20%7C%20%F0%9F%A4%96%20Learning:%20Go,%20LangChain%20and%20LlamaIndex&descSize=14&descAlignY=55" width="100%"/>
 <div>  
 <img width="337" src="./img/top_profile.png" align=right />
 <br/>
@@ -7,18 +7,19 @@
 <br/>
 <br/>
 
-- Name: **Reidho Satria**.
+- Name: **Radhofan Azizi Ramdhani (Radho)**.
 
-- From: **Palembang, South Sumatra, Indonesia**.
+- From: **Jakarta, West Java, Indonesia**.
 
-- Day job: **Cybersecurity Analyst** & **CTF Player**.
+- Role: **Fullstack Developer** & **Open Source Contributor**.
 
-- Currently: studying [**Computer Science**](https://if.uigm.ac.id/home/) at **UIGM**.
+- Graduated: studying [**Computer Science**](https://telkomuniversity.ac.id/fakultas-informatika/) at **Tel-U**.
 
-- Also: Vice-President of [@linuxuigm](https://github.com/linuxuigm), **GNU/Linux** Enthusiast.
+- Currently developing [splsh](https://github.com/radhofan/splsh), **Golang based fast environment running tool**.
 
-- Off the clock: VSPO! fan, breaking things for fun.
+- Feel free to reach out if you want to work with me!.
 
+<!-- <img src="./img/used-programming-languag.svg" align=right /> -->
 <img src="./img/top-langs.svg" align=right />
 <br/>
 <br/>
@@ -27,24 +28,25 @@
 <br/>
   
 <!-- BLOG_RSS_START -->
-- 🦋 [***SEKAICTF 2026 - Open World - Blockchain Writeup***](https://blog.rei.my.id/posts/163/sekaictf-2026-open-world-blockchain-writeup/)
-- 🦋 [***SEKAICTF 2026 - Survey - Miscellaneous Writeup***](https://blog.rei.my.id/posts/166/sekaictf-2026-survey-miscellaneous-writeup/)
-- 🦋 [***SEKAICTF 2026 - Outer Stellar - Blockchain Writeup***](https://blog.rei.my.id/posts/164/sekaictf-2026-outer-stellar-blockchain-writeup/)
-- 🦋 [***SEKAICTF 2026 - PP Farming 2 - Blockchain Writeup***](https://blog.rei.my.id/posts/165/sekaictf-2026-pp-farming-2-blockchain-writeup/)
-- 🦋 [***SCSC2026 Final - pwn revenggeeee - Binary Exploitation Writeup***](https://blog.rei.my.id/posts/149/scsc2026-final-pwn-revenggeeee-binary-exploitation-writeup/)
-- 🦋 [***SCSC2026 Final - The Predictable Oracle - Cryptography Writeup***](https://blog.rei.my.id/posts/150/scsc2026-final-the-predictable-oracle-cryptography-writeup/)
-- 🦋 [***SCSC2026 Final - soal gampang - Binary Exploitation Writeup***](https://blog.rei.my.id/posts/148/scsc2026-final-soal-gampang-binary-exploitation-writeup/)
-- 🦋 [***SCSC2026 Final - ROT - Cryptography Writeup***](https://blog.rei.my.id/posts/151/scsc2026-final-rot-cryptography-writeup/)
-- 🦋 [***SCSC2026 Final - Paper Leak - Cryptography Writeup***](https://blog.rei.my.id/posts/152/scsc2026-final-paper-leak-cryptography-writeup/)
-- 🦋 [***SCSC2026 Final - Deskripsi Palsu - Cryptography Writeup***](https://blog.rei.my.id/posts/153/scsc2026-final-deskripsi-palsu-cryptography-writeup/)
+- 🦋 [**My Blog 1 - Web Development**](https://example.com/blog-1)
+- 🦋 [**My Blog 2 - Software Engineering**](https://example.com/blog-2)
+- 🦋 [**My Blog 3 - Programming**](https://example.com/blog-3)
+- 🦋 [**My Blog 4 - Database Design**](https://example.com/blog-4)
+- 🦋 [**My Blog 5 - Frontend Development**](https://example.com/blog-5)
+- 🦋 [**My Blog 6 - Backend Development**](https://example.com/blog-6)
+- 🦋 [**My Blog 7 - Linux Setup**](https://example.com/blog-7)
+- 🦋 [**My Blog 8 - System Design**](https://example.com/blog-8)
+- 🦋 [**My Blog 9 - Learning Programming**](https://example.com/blog-9)
+- 🦋 [**My Blog 10 - Building Projects**](https://example.com/blog-10)
+
 <!-- BLOG_RSS_END -->
 <img src="./img/mid_profile.png" width="270" align="right" />
 <br/>
 <img src="./img/mid_banner.png" width="500" /><br/>
-<sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
+<sub>“The strength gained through my own hard work is truly fulfilling. Hehe, thanks for your support.”  – Furina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : radhofanazizi@gmail.com</sub>
 <br/><br/>
 <p align='center'>
-<a href="#"><img src="https://img.shields.io/badge/%23-4b0f08?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-4b0f08?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-4b0f08?style=for-the-badge"/></a> <a href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-4b0f08?style=for-the-badge"/></a> <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-4b0f08?style=for-the-badge"/></a> <a href="https://threads.net/@elliottophellia"><img src="https://img.shields.io/badge/THREAD-4b0f08?style=for-the-badge"/></a> <a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-4b0f08?style=for-the-badge"/></a> <a href="https://linkedin.com/in/elliottophellia"><img src="https://img.shields.io/badge/LINKEDIN-4b0f08?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-4b0f08?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/%23-4b0f08?style=for-the-badge"/></a> <a href="https://personal-website-radhofans-projects.vercel.app/"><img src="https://img.shields.io/badge/WEBSITE-4b0f08?style=for-the-badge"/></a> <a href="https://facebook.com/radho_fan"><img src="https://img.shields.io/badge/FACEBOOK-4b0f08?style=for-the-badge"/></a> <a href="https://twitter.com/fun_radho"><img src="https://img.shields.io/badge/TWITTER-4b0f08?style=for-the-badge"/></a> <a href="https://www.instagram.com/radho_fan/"><img src="https://img.shields.io/badge/INSTAGRAM-4b0f08?style=for-the-badge"/></a> <a href="https://threads.net/@radho_fan"><img src="https://img.shields.io/badge/THREAD-4b0f08?style=for-the-badge"/></a> <a href="https://t.me/fun_radho"><img src="https://img.shields.io/badge/TELEGRAM-4b0f08?style=for-the-badge"/></a> <a href="https://www.linkedin.com/in/radhofan-azizi/"><img src="https://img.shields.io/badge/LINKEDIN-4b0f08?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-4b0f08?style=for-the-badge"/></a>
 </p>
 <img src="./img/bottom_banner.png" width="100%" align="center" />
 </div>
