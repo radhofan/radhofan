@@ -9,7 +9,7 @@
 
 - Role: **Fullstack Developer** & **Open Source Contributor**.
 
-- Graduated: studying [**Computer Science**](https://telkomuniversity.ac.id/fakultas-informatika/) at **Tel-U**.
+- Graduated: [**Computer Science**](https://telkomuniversity.ac.id/fakultas-informatika/) at **Tel-U**.
 
 - Currently developing [splsh](https://github.com/radhofan/splsh),
   **Golang based fast environment running tool**.
