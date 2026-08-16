@@ -14,8 +14,8 @@
 - Currently developing [splsh](https://github.com/radhofan/splsh),
   **Golang based fast environment running tool**.
 
-- Feel free to reach out \
-  if you want to work with me!.
+- Feel free to reach out if you want to work with me!.
+  <br/><br/>
   <br/><br/>
 
 <br/><br/>
@@ -47,9 +47,9 @@
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-Advanced-555555?style=flat&logo=postgresql&logoColor=white&labelColor=4169E1" />
-  <img src="https://img.shields.io/badge/MongoDB-Advanced-555555?style=flat&logo=mongodb&logoColor=white&labelColor=47A248" />
+  <img src="https://img.shields.io/badge/MongoDB-Learning-555555?style=flat&logo=mongodb&logoColor=white&labelColor=47A248" />
   <img src="https://img.shields.io/badge/MySQL-Advanced-555555?style=flat&logo=mysql&logoColor=white&labelColor=4479A1" />
-  <img src="https://img.shields.io/badge/Redis-Intermediate-555555?style=flat&logo=redis&logoColor=white&labelColor=DC382D" />
+  <img src="https://img.shields.io/badge/Redis-Learning-555555?style=flat&logo=redis&logoColor=white&labelColor=DC382D" />
 </p>
 
 <br/>
